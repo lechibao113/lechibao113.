@@ -638,11 +638,11 @@ body{
     position: absolute;
     width: 180px;
     bottom: -10px;
-    left: 1x;
+    left: 30x;
     z-index: 100;
 }
 .giftbox img{
-    width: 170%;
+    width: 100%;
 }
 .textLetter{
     position: relative;
