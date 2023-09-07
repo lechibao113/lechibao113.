@@ -631,18 +631,18 @@ body{
 }
 .giftbox{
     position: relative;
-    width: 80%;
+    width: 50%;
     height: 100%;
 }
 .giftbox .img{
     position: absolute;
-    width: 180px;
-    bottom: 10px;
-    left: 50px;
+    width: 150px;
+    bottom: -10px;
+    left: 30px;
     z-index: 100;
 }
 .giftbox img{
-    width: 150%;
+    width: 170%;
 }
 .textLetter{
     position: relative;
