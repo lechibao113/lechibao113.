@@ -631,7 +631,7 @@ body{
 }
 .giftbox{
     position: relative;
-    width: 40%;
+    width: 80%;
     height: 100%;
 }
 .giftbox .img{
@@ -642,7 +642,7 @@ body{
     z-index: 110;
 }
 .giftbox img{
-    width: 100%;
+    width: 120%;
 }
 .textLetter{
     position: relative;
