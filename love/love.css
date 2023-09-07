@@ -636,10 +636,10 @@ body{
 }
 .giftbox .img{
     position: absolute;
-    width: 180px;
+    width: 200px;
     bottom: -10px;
-    left: 50px;
-    z-index: 100;
+    left: 80px;
+    z-index: 110;
 }
 .giftbox img{
     width: 100%;
