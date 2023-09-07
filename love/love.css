@@ -631,14 +631,14 @@ body{
 }
 .giftbox{
     position: relative;
-    width: 40%;
+    width: 60%;
     height: 100%;
 }
 .giftbox .img{
     position: absolute;
     width: 180px;
     bottom: 25px;
-    left: 70x;
+    left: 50x;
     z-index: 100;
 }
 .giftbox img{
